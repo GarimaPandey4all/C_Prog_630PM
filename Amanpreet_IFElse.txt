@@ -1,0 +1,27 @@
+Largest = (a>b) ? ((a>c) ? a : c) : ((b>c)? b : c);
+
+Largest = (a>b)? (((a>c)?a:c)?((a>d)?a:d)) : false
+
+mid = (first + last) / 2;
+
+condition ? True : False;
+
+a, b, c, d
+
+a>b, a>c, a>d
+b>c, b>d
+c>d
+else
+d
+
+if((a>b) && (a>c) && (a>d))
+a
+else if((b>c) && (b>d))
+b
+else if(c>d)
+c
+else
+d
+
+
+	
